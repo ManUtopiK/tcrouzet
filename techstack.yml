@@ -1,0 +1,30 @@
+repo_name: ManUtopiK/tcrouzet
+report_id: b25ad8fd8bdd077800afd740bc81e054
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T08:21:51+00:00'
+requested_by: tcrouzet
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ManUtopiK/tcrouzet
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ManUtopiK/tcrouzet/blob/main/index.html
+  detection_source: index.html
+  last_updated_by: tcrouzet
+  last_updated_on: 2023-01-13 18:28:55.000000000 Z
